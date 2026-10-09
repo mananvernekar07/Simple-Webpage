@@ -9,4 +9,4 @@ You can use the webpage and examine the code given there and make changes in val
 ![Screenshot (198)](https://github.com/mananvernekar07/Simple-Webpage/assets/118718800/b6613ca2-28df-4db8-a532-50d44c5d63d6)
 
 
-# ~ Coding Testing Debugging by Manan Vernekar
+# ~ Coding Testing Debugging by Manan
